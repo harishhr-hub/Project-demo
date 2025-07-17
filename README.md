@@ -1,4 +1,4 @@
 # Project-demo
 First git repository.
 <br>
-Author - Harish H R
+Author - Harish H R (developer)
